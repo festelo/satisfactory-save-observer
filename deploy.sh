@@ -1,0 +1,1 @@
+KO_DOCKER_REPO=festelo ko build . --base-import-paths
